@@ -1,6 +1,8 @@
 # ScriptableObjectField
 Show ScriptableObject content in inspector
 
+video:https://www.bilibili.com/video/BV1Jt4y1o7Jf/
+
 ![image](https://github.com/taco970123/ScriptableObjectField/assets/52879355/db019822-d590-41a7-9b92-13e262d76b30)
 the scriptableObject to show in inspector
 
